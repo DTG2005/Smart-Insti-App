@@ -27,13 +27,13 @@ I am an undergraduate student in my first year at Indian Institute of Technology
 
 ## Technical Background
 
-**Languages**
+**Languages**  
 PYTHON    C++    JAVA    HTML    CSS    JAVASCRIPT    DART    SQL
 
-**Softwares & Tools**
+**Softwares & Tools**  
 VISUAL STUDIO CODE    GIT   GITHUB    ANDROID STUDIO    GIMP    TERMINAL    
 
-**Miscellaneous**
+**Miscellaneous**  
 KIVY    DISCORD.PY    MYSQL    SQLITE    LATEX    MARKDOWN    FLUTTER
 
 ## Understanding of The Project
