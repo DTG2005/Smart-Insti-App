@@ -3,12 +3,12 @@
 
 ## Personal Information
 
-**Name**: Divyam Maru
-**Email**: divyamthegreat5@gmail.com
-**University**: Indian Institute of Technology, Indore
-**Github**: [@DTG2005](https://github.com/DTG2005)
-**Location**: Indore, Madhya Pradesh
-**Time Zone**: IST (UTC +5:30)
+**Name**: Divyam Maru  
+**Email**: divyamthegreat5@gmail.com  
+**University**: Indian Institute of Technology, Indore  
+**Github**: [@DTG2005](https://github.com/DTG2005)  
+**Location**: Indore, Madhya Pradesh  
+**Time Zone**: IST (UTC +5:30)  
 
 ## Organization: Smart-Insti-App
 
